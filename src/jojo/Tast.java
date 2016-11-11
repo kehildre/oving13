@@ -5,5 +5,5 @@ package jojo;
  */
 public class Tast {
     // Jeg er endeli fuck yeah
-    
+
 }
